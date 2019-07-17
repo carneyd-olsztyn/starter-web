@@ -16,7 +16,7 @@ Deployment text.
 
 ## How to Contribute
 
-Contribution text.
+Here is the Contribution text.
 
 ### Copyright
 
