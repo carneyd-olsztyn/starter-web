@@ -17,3 +17,7 @@ Deployment text.
 ## How to Contribute
 
 Contribution text.
+
+### Copyright
+
+2019 Git.Training
