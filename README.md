@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work together. Adding for rebasing.
+This repository is for showing how Git and GitHub work together. Adding for rebasing, then more change.
 
 ## Introduction
 
